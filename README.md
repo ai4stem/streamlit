@@ -11,11 +11,11 @@
 <h2>본 파일을 이용하기 위해서는 .env 파일을 만들어야 합니다.</h2>
 .env 구조
 
-OPEN_API_KEY=your key
-PASSWORD=your password
-DB_HOST=localhost
-DB_USER=username
-DB_PASSWORD=password
-DB_DATABASE=database
+OPEN_API_KEY=your key  
+PASSWORD=your password  
+DB_HOST=localhost  
+DB_USER=username  
+DB_PASSWORD=password  
+DB_DATABASE=database  
 
 <h2>본 파일의 저장 및 추출 등은 MySQL을 통해 이뤄집니다.</h2>
