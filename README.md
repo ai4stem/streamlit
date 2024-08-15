@@ -12,7 +12,9 @@ This files are an automated interview system based on LLM (ChatGPT).
 - For interviewee (학생 응답용): <b>streamlit run stream_app.py --server.address 0.0.0.0 --server.port 8503</b><br>
 - For interviewer (학생 평가용): <b>streamlit run eval_app.py --server.address 0.0.0.0 --server.port 8504</b><br>
 
-<h2> You should create .env file in order to use the app / 본 파일을 이용하기 위해서는 .env 파일을 만들어야 합니다.</h2>
+<h2> You should create .env file in order to use the app</h2>
+<h2></h2>본 파일을 이용하기 위해서는 .env 파일을 만들어야 합니다.</h2>
+
 The structure of .env (.env 구조)
 
 OPEN_API_KEY=your key  
