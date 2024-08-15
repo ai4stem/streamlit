@@ -5,10 +5,10 @@ This files are an automated interview system based on LLM (ChatGPT).
 
 <h2>How to use</h2>
 <h2>실행 방법</h2>
-1. Download the whole files  
-해당 파일을 모두 다운로드 받도록 합니다.
-2. Move to the downloaded folder and run several code as follows  
-해당 폴더로 이동한 뒤, 터미널에서 다음 명령어를 실행합니다:<br><br>
+1. Download the whole files<br>
+해당 파일을 모두 다운로드 받도록 합니다.<p>
+2. Move to the downloaded folder and run several code as follows<br>
+해당 폴더로 이동한 뒤, 터미널에서 다음 명령어를 실행합니다:<p>
 - For interviewee (학생 응답용): <b>streamlit run stream_app.py --server.address 0.0.0.0 --server.port 8503</b><br>
 - For interviewer (학생 평가용): <b>streamlit run eval_app.py --server.address 0.0.0.0 --server.port 8504</b><br>
 
