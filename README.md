@@ -22,10 +22,10 @@ PASSWORD=your password
 DB_HOST=localhost  
 DB_USER=username  
 DB_PASSWORD=password  
-DB_DATABASE=database
-GOOGLE_API_KEY=your key
-EMAIL_ADDRESS=your email
-EMAIL_PASSWORD=16 letters for gmail api
+DB_DATABASE=database  
+GOOGLE_API_KEY=your key  
+EMAIL_ADDRESS=your email  
+EMAIL_PASSWORD=16 letters for gmail api  
 
 <h2>The app relies on MySQL for storing and retrieval of information</h2>
 <h2>본 파일의 저장 및 추출 등은 MySQL을 통해 이뤄집니다.</h2>
